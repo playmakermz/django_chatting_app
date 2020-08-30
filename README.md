@@ -12,3 +12,7 @@ simple django app to chat
 - Register
 - Login
 - Add item
+
+# How To Use
+- python manage.py migrate
+
